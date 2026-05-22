@@ -1,4 +1,4 @@
-Fullstack Task Management MVP
+Task Manager Assessment
 =============================
 
 MVP de gestión de tareas con arquitectura desacoplada: Node.js/TypeScript en el backend y React/Vite en el frontend, usando Prisma ORM y Neon (PostgreSQL).
